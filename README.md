@@ -11,7 +11,7 @@
 
 ---
 
-## I'm a Compititive Coder , Developer, and Designer!
+## I'm a Compititive Coder ,and Developer!
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning UI/UX development
 - 👯 I’m looking to collaborate on WebDevelopment
