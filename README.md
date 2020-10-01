@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-@AnkushMishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ankush-mishra-b549ba197/)](https://linkedin.com/in/ankush-mishra-b549ba197/) <!--[![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)-->
 [![Facebook Badge](https://img.shields.io/badge/-@AnkushMishra-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/ankush.mishra.180625)](https://www.facebook.com/ankush.mishra.180625) 
 [![Instagram Badge](https://img.shields.io/badge/-@binayak__sadangi-black?style=flat-square&labelColor=ff69b4&logo=instagram&logoColor=black&link=https://instagram.com/binayak__sadangi/)](https://instagram.com/binayak__sadangi/)
-[![Gmail Badge](https://img.shields.io/badge/-@ankushmishra0939@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankushmishra0939@gmail.com)](mailto:ankushmishra0939@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-@youbinayak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youbinayak@gmail.com)](mailto:youbinayak@gmail.com)
 <!--[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)-->
 [![GitHub followers](https://img.shields.io/github/followers/ankush0939?label=Follow&style=social)](https://github.com/ankush0939/?tab=follow)
 
