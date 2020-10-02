@@ -1,7 +1,7 @@
 # Hi there, I'm Binayak 👋
 
 ## Connect with me:
-[![Twitter Badge](https://twitter.com/Binayak7sadangi?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/Binayak7sadangi](https://twitter.com/Binayak7sadangi) 
+
 [![Linkedin Badge](https://img.shields.io/badge/-@AnkushMishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ankush-mishra-b549ba197/)](https://linkedin.com/in/ankush-mishra-b549ba197/) <!--[![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)-->
 [![Facebook Badge](https://img.shields.io/badge/-@AnkushMishra-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/ankush.mishra.180625)](https://www.facebook.com/ankush.mishra.180625) 
 [![Instagram Badge](https://img.shields.io/badge/-@binayak__sadangi-black?style=flat-square&labelColor=ff69b4&logo=instagram&logoColor=black&link=https://instagram.com/binayak__sadangi/)](https://instagram.com/binayak__sadangi/)
