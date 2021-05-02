@@ -41,7 +41,7 @@ I am an undergrad in Computer Science and Engineering at Veer Sureendra Sai Univ
 
 ## My Github Stats:
 <p align = "center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/binayaksadangi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=binayaksadangi&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binayaksadangi&theme=buefy&layout=compact" />
 </a>
