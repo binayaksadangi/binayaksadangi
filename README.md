@@ -1,18 +1,13 @@
 # Hi there, I'm Binayak 👋
 
-## Connect with me:
 
-
-
----
 
 ## I'm a Compititive Coder ,and Developer!
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning UI/UX development
+- 🔭 I’m currently working on React and Node js
 - 👯 I’m looking to collaborate on WebDevelopment
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/919438746476)
 - 😄 Pronouns: He
-- ⚡ Fun fact: I dont need semicolons
+
 
 <br />
 
