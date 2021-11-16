@@ -2,7 +2,7 @@
 
 
 
-## I'm a Compititive Coder ,and Developer!
+## I'm a Compititive Coder and Developer!
 - 🔭 I’m currently working on React and Node js
 - 👯 I’m looking to collaborate on WebDevelopment
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/919438746476)
