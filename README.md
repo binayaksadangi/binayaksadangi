@@ -6,13 +6,11 @@
 - 🔭 I’m currently working on React and Node js
 - 👯 I’m looking to collaborate on WebDevelopment
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/919438746476)
-- 😄 Pronouns: He
-
 
 <br />
 
 ## About Me 😎:
-I am an undergrad in Computer Science and Engineering at Veer Sureendra Sai University of Technology. I like to explore and wwork with latest technologies. Doesn't matter How much you know, there is always more waiting for you. #knowledgelust_forever.
+I am an undergrad in Computer Science and Engineering at Veer Sureendra Sai University of Technology. I like to explore and work with latest technologies. Doesn't matter How much you know, there is always more waiting for you. #knowledgelust_forever.
 
 ## Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
