@@ -9,7 +9,7 @@
 <br />
 
 ## About Me:
-I am an undergrad in Computer Science and Engineering at Veer Sureendra Sai University of Technology. I like to explore and work with latest technologies. Doesn't matter How much you know, there is always more waiting for you. #knowledgelust_forever.
+I am an undergrad in Computer Science and Engineering at Veer Sureendra Sai University of Technology. I like to explore and work with latest technologies. Doesn't matter How much you know, there is always more waiting for you.
 
 
 <br />
