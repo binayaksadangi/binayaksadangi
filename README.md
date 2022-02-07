@@ -9,7 +9,7 @@
 <br />
 
 ## About Me:
-I am an undergrad in Computer Science and Engineering at Veer Sureendra Sai University of Technology. I like to explore and work with latest technologies. Doesn't matter How much you know, there is always more waiting for you.
+I am a CSE undergrad currently in my pre-final year. I am a fullstack (MERN) developer. I identify myself as an enthusiastic and hardworking individual who likes exploring new technologies, currently I am working with React Native to develop native apps. My proficiency in Data structures is good. I am open to new opportunities to work in the domains of my knowledge. Being a strong headed individual I believe in taking up challanges.
 
 
 <br />
