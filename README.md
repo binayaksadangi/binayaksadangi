@@ -1,7 +1,7 @@
 
 
 
-## Hi there, I'm Binayak 👋. I'm a Compititive Coder and React Js Developer!
+## Hi there, I'm Binayak 👋. I'm a Competitive Coder and React Js Developer!
 - 🔭 I’m currently working on Backend development with Node Js
 - 👯 I’m looking to collaborate on Web Development
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/919438746476)
